@@ -49,3 +49,5 @@ Server runs at `http://localhost:5000`.
 - Server emits: `receiveMessage`
 
 Socket authentication uses JWT via `handshake.auth.token`.
+
+. Add account of two user and start real time conversation by running project oon two emulator then check real time chat between two users.
